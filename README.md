@@ -1,5 +1,3 @@
-## Hi there! I'm Vinh Phat Ong
-
 # 👋 Hi! I'm Vinh Phat Ong
 
 🎓 I'm currently an undergraduate student majoring in **Software Engineering** at **Ho Chi Minh City University of Technology and Education (HCMUTE)**.
