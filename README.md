@@ -1,11 +1,11 @@
 # 👋 Hi! I'm Vinh Phat Ong
 
-🎓 I'm currently an undergraduate student majoring in **Software Engineering** at **Ho Chi Minh City University of Technology and Education (HCMUTE)**.
+🎓 I'm currently an undergraduate student majoring in **Software Engineering** at **Ho Chi Minh City University of Technology and Engineering (HCMUTE)**.
 
 ## 🚀 About Me
 
 - 🔭 I'm currently working on backend development projects using **Java Spring Boot**
-- 🌱 I’m currently learning more about **Spring boot**, **JPA**, **SQL Language** and **Mobile app development with Android, API integration and building secure APIs with Spring Boot**
+- 🌱 I’m currently learning more about **MERN Stack**, **React native** **Spring boot**, **SQL Language**, **Mobile app development with Android, API integration and building secure APIs with Spring Boot**,
 - 👯 I’m looking to join an **internship program** where I can grow my skills in a professional environment
 - 💬 Ask me about anything tech-related!
 - 📫 Reach me at: **vinhphatst1235@gmail.com**
