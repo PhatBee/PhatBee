@@ -19,7 +19,7 @@
 
 | 🎓 Education | 🏆 Academic Standing | 🌐 English Proficiency | 💼 Target Positions |
 | :--- | :--- | :--- | :--- |
-| **HCMUTE** (Software Engineering, 2022–2026) | **GPA: 3.62 / 4.0** | **TOEIC: 660** | **Full-stack Developer / Full-stack AI Engineer** |
+| **HCMUTE** (Software Engineering, 2022–2026) | **GPA: 3.62 / 4.0** | **TOEIC: 660** | **Full-stack Developer** |
 
 </div>
 
