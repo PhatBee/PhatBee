@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Software+Engineering+%40+HCMUTE+(GPA%3A+3.62%2F4.0);Full-stack+AI+Developer+%E2%80%A2+GraphRAG+%2B+Neo4j+%2B+LLMs;Spring+Boot+%E2%80%A2+FastAPI+%E2%80%A2+NodeJS+%E2%80%A2+ReactJS;AWS+Academy+Graduate+%E2%80%A2+Cloud+%26+DevOps+Ready)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://linkedin.com/in/vinhphat-ong"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="linkedin.com/in/vĩnh-phát-ong-16a374387"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:vinhphatst1235@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/PhatBee"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://t.me/PhatBee2004"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
@@ -202,7 +202,7 @@ Tôi luôn sẵn sàng kết nối, chia sẻ chuyên môn và thảo luận v�
   <a href="mailto:vinhphatst1235@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-vinhphatst1235@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/vinhphat-ong">
+  <a href="linkedin.com/in/vĩnh-phát-ong-16a374387">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/PhatBee">
