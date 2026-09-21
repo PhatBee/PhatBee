@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 ONG VINH PHAT (PhatBee)
-### **Full-stack Developer | Full-stack AI Engineer**
+### **Full-stack Developer**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Software+Engineering+%40+HCMUTE+(GPA%3A+3.62%2F4.0);Full-stack+AI+Developer+%E2%80%A2+GraphRAG+%2B+Neo4j+%2B+LLMs;Spring+Boot+%E2%80%A2+FastAPI+%E2%80%A2+NodeJS+%E2%80%A2+ReactJS;AWS+Academy+Graduate+%E2%80%A2+Cloud+%26+DevOps+Ready)](https://git.io/typing-svg)
 
