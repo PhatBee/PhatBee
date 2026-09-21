@@ -188,16 +188,6 @@ Kỹ sư Phần mềm tốt nghiệp từ **HCMUTE** với nền tảng tư duy 
 ## 📊 GitHub Analytics & Code Velocity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=PhatBee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="PhatBee's GitHub Stats" width="100%"/>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhatBee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="100%"/>
-      </td>
-    </tr>
-  </table>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhatBee&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" width="90%"/>
 </div>
