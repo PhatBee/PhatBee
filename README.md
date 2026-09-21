@@ -19,7 +19,7 @@
 
 | 🎓 Education | 🏆 Academic Standing | 🌐 English Proficiency | 💼 Target Positions |
 | :--- | :--- | :--- | :--- |
-| **HCMUTE** (Software Engineering, 2022–2026) | **GPA: 3.62 / 4.0** (Top Tier) | **TOEIC: 660** | **Full-stack Developer / Full-stack AI Engineer** |
+| **HCMUTE** (Software Engineering, 2022–2026) | **GPA: 3.62 / 4.0** | **TOEIC: 660** | **Full-stack Developer / Full-stack AI Engineer** |
 
 </div>
 
@@ -98,7 +98,7 @@ Kỹ sư Phần mềm tốt nghiệp từ **HCMUTE** với nền tảng tư duy 
 
 <table>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,fastapi,py,cpp,react,android,tailwind,mongodb,mysql,neo4j,aws,docker,git,postman&theme=dark" alt="Core Tech Stack 2026" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,fastapi,py,cpp,react,androidstudio,tailwind,mongodb,mysql,aws,docker,git,postman&theme=dark" alt="Core Tech Stack 2026" />
 </div>
 
 <br/>
